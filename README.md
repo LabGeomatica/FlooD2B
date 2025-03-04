@@ -20,6 +20,7 @@ The document uploaded:
 Flood2B.zip - Model in which all the inputs and algorithms necessary for the execution of the methodology that characterizes the plugin are inserted;
 
 GiuliaMazzaccaro_thesis.pdf - for detailed information about the procedure implemented.
+
 GiuliaMazzaccaro_presentation.pdf - slides that present the procedure implemented and a case study.
 
 Edificato.zip - Example of Building layer (downloadable from the Geoportal of Regione Liguria) for testing
